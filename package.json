@@ -1,0 +1,20 @@
+{
+  "name": "bni-mobile-site-scrapper",
+  "version": "1.0.0",
+  "description": "Bni mobile site scrapper , created for SE Intern test at cermati",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "nvm": "0.0.4",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Faiz",
+  "license": "ISC"
+}
